@@ -39,27 +39,33 @@ This project was showcased at our university's project show event, highlighting 
 ### **1. Home Section**
 *Welcoming interface for both online and offline service information.*
 
-![Home Section - Online Services](path/to/home_online_service.jpg)
-
-![Home Section - Offline Services](path/to/home_offline_service.jpg)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Home%20page/Home.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Home%20page/Home1.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Home%20page/Home2.png?raw=true)
 
 ---
 
 ### **2. Staff Section**
 *Staff functionalities including order approval, rejection, and updates.*
 
-![Staff Section - Approve/Reject Orders](path/to/staff_approve_reject.jpg)
-
-![Staff Section - Update Order Status](path/to/staff_update_status.jpg)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Staff/staff.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Staff/staff2.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Staff/staff3.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Staff/staff4.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Staff/staff5.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Staff/staff6.png?raw=true)
 
 ---
 
 ### **3. User Section**
 *User-friendly interfaces for customers to manage their deliveries.*
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/user/usr.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/user/usr1.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/user/usr2.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/user/usr3.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/user/usr5.png?raw=true)
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/user/usr6.png?raw=true)
 
-![User Section - Create Account](path/to/user_create_account.jpg)
-
-![User Section - Track Parcel](path/to/user_track_parcel.jpg)
 
 ---
 

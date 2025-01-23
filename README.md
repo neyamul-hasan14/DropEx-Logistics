@@ -66,11 +66,10 @@ This project was showcased at our university's project show event, highlighting 
 ### **4. Admin Section**
 *Comprehensive admin controls for managing employees and viewing feedback.*
 
-![image alt](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin.png?raw=true)
+![][https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin.png?raw=true]
+![][https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin1.png?raw=true]
+![][https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin2.png?raw=true]
 
-![image alt](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin1.png?raw=true)
-
-![image alt]([path/to/admin_customer_feedback.jpg](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin2.png?raw=true))
 
 ---
 

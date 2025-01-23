@@ -69,7 +69,7 @@ This project was showcased at our university's project show event, highlighting 
 
 
 
-![][[](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin.png?raw=true)]
+![Image Alt Text](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin.png?raw=true)
 ![][http://example.com/path/image]
 ![][http://example.com/path/image]
 

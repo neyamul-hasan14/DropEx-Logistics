@@ -4,6 +4,12 @@ Welcome to **DropEx**, an efficient and seamless logistics management system. Dr
 
 ---
 
+## About Us
+
+DropEx is a collaborative effort led by **Kazi Neyamul Hasan** and **Md. Habibullah Misbah**. Together, we are dedicated to creating a logistics platform that simplifies delivery services for customers and enhances operational efficiency for service providers. Our mission is to bridge the gap between users and seamless logistics solutions through innovation and teamwork.
+
+---
+
 ## Features
 
 ### **Online and Offline Services**
@@ -88,16 +94,13 @@ Welcome to **DropEx**, an efficient and seamless logistics management system. Dr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DropEx-Logistics.git
+   git clone https://github.com/neyaumul-hasan14/DropEx-Logistics.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python manage.py runserver
-   ```
+2. Configure the database by importing the SQL schema provided in the repository.
+3. Start the PHP server:
+   - Ensure your server environment supports PHP and MySQL.
+   - Place the project files in the server directory (e.g., htdocs for XAMPP).
+   - Start your local server and access the project through `http://localhost/DropEx-Logistics/`.
 
 ---
 
@@ -112,4 +115,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for choosing DropEx for your logistics needs! 🚚
-

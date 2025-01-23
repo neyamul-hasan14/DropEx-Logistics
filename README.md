@@ -68,9 +68,10 @@ This project was showcased at our university's project show event, highlighting 
 
 
 
-<img src="[http://example.com/path/image](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin.png?raw=true)" />
-<img src="[http://example.com/path/image](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin1.png?raw=true)" />
-<img src="[http://example.com/path/image](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin2.png?raw=true)" />
+
+![][[](https://github.com/neyamul-hasan14/DropEx-Logistics/blob/main/Sample%20Screen%20Short%20/Admin/admin.png?raw=true)]
+![][http://example.com/path/image]
+![][http://example.com/path/image]
 
 
 

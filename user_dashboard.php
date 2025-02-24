@@ -264,7 +264,7 @@ $shipping_requests = mysqli_fetch_all($result, MYSQLI_ASSOC);
                             <td><?php echo htmlspecialchars($request['S_Name']); ?></td>
                             <td><?php echo htmlspecialchars($request['R_Name']); ?></td>
                             <td><?php echo $request['Weight_Kg']; ?> kg</td>
-                            <td>₹<?php echo $request['Price']; ?></td>
+                            <td>৳<?php echo $request['Price']; ?></td>
                             <td class="status-<?php echo $request['status']; ?>">
                                 <?php echo ucfirst($request['status']); ?>
                             </td>
